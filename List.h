@@ -1,10 +1,4 @@
 
-/*
-    Student Name: Maram Sayed
-    Student Number: 101304334
-    
-*/
-
 #ifndef LIST_H
 #define LIST_H
 
