@@ -1,10 +1,4 @@
-
-
-/*
-    Student Name: Maram Sayed
-    Student Number: 101304334
-    
-*/
+// I didn't write this code
 
 #include "TestControl.h"
 #include <limits>
@@ -453,4 +447,5 @@ int TestControl::testAllAndMark(){
     mark += testFilterByPriceRange();
     mark += testFilterByPriceRangeAndPropertyType();
     return mark;
+
 }
