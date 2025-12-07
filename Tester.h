@@ -1,9 +1,4 @@
-
-/*
-    Student Name: Maram Sayed
-    Student Number: 101304334
-    
-*/
+// I didn't write this code
 
 #ifndef TESTER_H
 #define TESTER_H
@@ -49,6 +44,7 @@ class Tester{
     	ostringstream strCout;
 		string output;
 };
+
 
 
 
