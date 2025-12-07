@@ -1,9 +1,5 @@
 
-/*
-    Student Name: Maram Sayed
-    Student Number: 101304334
-    
-*/
+// I didn't write this code
 
 #ifndef VIEW_H
 #define VIEW_H
