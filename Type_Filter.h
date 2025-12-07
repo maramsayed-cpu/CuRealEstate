@@ -1,9 +1,4 @@
 
-/*
-    Student Name: Maram Sayed
-    Student Number: 101304334
-    
-*/
 
 #ifndef TYPE_FILTER_H
 #define TYPE_FILTER_H
