@@ -1,9 +1,5 @@
 
-/*
-    Student Name: Maram Sayed
-    Student Number: 101304334
-    
-*/
+// I didn't write this code
 
 #include "Tester.h"
 
@@ -188,4 +184,5 @@ void Tester::recordMark(int test, int mark, int outof){
     else
         std::cout<<"Test number: " <<test<<" Mark: "<<mark<<"/"<<outof;
 }
+
 
