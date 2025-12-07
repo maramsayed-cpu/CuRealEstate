@@ -1,9 +1,4 @@
-
-/*
-    Student Name: Maram Sayed
-    Student Number: 101304334
-    
-*/
+// I didn't write this code
 
 #ifndef TESTCONTROL_H
 #define TESTCONTROL_H
@@ -56,4 +51,5 @@ class TestControl {
 		
 	
 };
+
 #endif
