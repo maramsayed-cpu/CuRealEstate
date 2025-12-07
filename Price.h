@@ -1,9 +1,4 @@
 
-/*
-    Student Name: Maram Sayed
-    Student Number: 101304334
-    
-*/
 
 #ifndef PRICE_H
 #define PRICE_H
