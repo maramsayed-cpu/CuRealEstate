@@ -1,7 +1,3 @@
-COMP 2404 - Assignment 4
-
-Name: Maram Sayed
-Student #: 101304334
 
 Files
 main.cc -> main file source code
